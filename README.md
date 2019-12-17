@@ -1,3 +1,7 @@
 #IMAGEMARK
 
 BENCHMARKING DEEPLEARNING FRAMEWORKS
+
+THE REPOSITORY HAS BEEN SHIFTED TO:
+
+https://bitbucket.org/rehanikram/imagemark/
